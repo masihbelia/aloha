@@ -1,6 +1,3 @@
 <?php
-	echo 'asdf';
-	echo 'ghjk';
-	echo 'qwer';
-
+	echo 'index';
 ?>
